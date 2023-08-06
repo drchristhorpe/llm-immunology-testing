@@ -23,6 +23,10 @@ Is a configuration file, config.toml. This is excluded as it includes the OpenAI
 
 `"ITERATIONS"=10`
 
+## The questions
+
+These range from the broad and very basic level of knowledge, to the very specific. They are designed to test the ability of the LLM to respond to prompts at different levels of specificity and information availability. The broader more basic questions are likely to be significantly more present in the training data set of the models, than are the more specific pieces of information.
+
 ## TODO list
 
 - write functionality/questions where data is returned in JSON notation for some questions
