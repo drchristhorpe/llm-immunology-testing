@@ -3,12 +3,7 @@ import llm
 
 from functions import load_config, load_questions, write_json
 
-from rich.console import Console
-from rich.progress import Progress
-
 import time
-
-console = Console()
 
 # load the configuration
 config = load_config()
@@ -63,7 +58,7 @@ def run_question(question:str, response_type:str, model_name:str) -> Dict[str, U
         'responses': []
     }
 
-    console.print(f"[bold]Running question '{question}' through the pipeline using the {model_name} model.[/bold]")
+    print(f"[bold]Running question '{question}' through the pipeline using the {model_name} model.[/bold]")
 
     # perform a set of iterations
     for i in range(iterations):
