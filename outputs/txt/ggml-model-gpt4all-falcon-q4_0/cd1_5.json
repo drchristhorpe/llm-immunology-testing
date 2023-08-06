@@ -1,0 +1,20 @@
+{
+    "question": {
+        "question": "What is the function of CD1 molecules?",
+        "filename": "cd1_5"
+    },
+    "iterations": 10,
+    "model_name": "ggml-model-gpt4all-falcon-q4_0",
+    "responses": [
+        "CD1 molecules are a type of glycoprotein that are found on the surface of certain immune cells called natural killer (NK) cells. The function of these molecules is to help NK cells recognize and kill infected or abnormal cells in the body. Specifically, the CD1 molecule helps NK cells recognize and bind to specific carbohydrates on the surface of target cells, which can be used as a signal for killing.\n",
+        "CD1 molecules are part of the major histocompatibility complex (MHC) and play a role in presenting antigens to T cells. They help activate T cells by interacting with specific receptors on T cells, leading to increased proliferation and cytokine production.",
+        "CD1 molecules are part of the major histocompatibility complex (MHC) and play a role in presenting antigens to T cells. They help activate the immune response by presenting antigens from intracellular pathogens, such as viruses, to T cells on the surface of immune cells. This helps the immune system recognize and attack these pathogens.",
+        "CD1 molecules are a type of glycoprotein that play a role in presenting antigens to T cells. They bind to specific carbohydrates on the surface of target cells and help activate T cells, leading to an immune response.",
+        "CD1 molecules are part of the major histocompatibility complex (MHC) and play a role in presenting antigens to T cells. They help activate the immune response by presenting antigens from intracellular pathogens, such as viruses, to T cells.",
+        "CD1 molecules are a type of glycoprotein that play a role in the immune response by presenting antigens to T cells. They are found on the surface of certain types of immune cells, such as B cells and dendritic cells, and help activate these cells when they recognize specific antigens. This helps the immune system fight off infections and diseases.",
+        "CD1 molecules are a type of glycoprotein that play a role in the immune response by presenting antigens to T cells. They help activate and regulate the immune system's response to pathogens, such as viruses and bacteria.",
+        "CD1 molecules are a type of glycoprotein that are found on the surface of immune cells called natural killer (NK) cells. Their primary function is to bind and internalize specific types of antigens, such as viruses or cancer cells, allowing NK cells to recognize and kill these invaders.",
+        "CD1 molecules are part of the major histocompatibility complex (MHC) and play a role in presenting antigens to T cells. They help activate T cells by interacting with specific receptors on T cells, known as T cell receptors (TCRs), which recognize antigens presented by MHC class I molecules. This interaction leads to the activation of T cells, allowing them to kill infected or abnormal cells.\n",
+        "CD1 molecules are a type of glycoprotein that play a role in presenting antigens to T cells. They help activate the immune response by recognizing and presenting antigens from infected or abnormal cells to T cells, which can then recognize and attack these cells."
+    ]
+}
