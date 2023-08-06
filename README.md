@@ -19,8 +19,8 @@ The project also depends on the `toml` python library.
 
 Is a configuration file, config.toml. This is excluded as it includes the OpenAI API key. To use the repository create this file in the root directory and include these two properties in the file
 
-"OPENAI_API_KEY"="my-secret-openai-api-key-goes-here"
-"ITERATIONS"=10
+`"OPENAI_API_KEY"="my-secret-openai-api-key-goes-here"`
+`"ITERATIONS"=10`
 
 ## TODO list
 
