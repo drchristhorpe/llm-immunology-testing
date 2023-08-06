@@ -1,0 +1,20 @@
+{
+    "question": {
+        "question": "What are the human isoforms of CD1?",
+        "filename": "cd1_2"
+    },
+    "iterations": 10,
+    "model_name": "ggml-vicuna-7b-1",
+    "responses": [
+        "There are three known human isoforms (variants) of CD1: CD1a, CD1b and CD1c. These isoforms differ in their expression patterns on immune cells and have distinct functions in antigen processing and presentation.",
+        "There are three known human isoforms (variants) of CD1, which are called CD1a, CD1b and CD1c. These isoforms differ in their expression patterns on immune cells and have different functions in antigen processing and presentation.",
+        "The human genome encodes three different isoforms (variants) of the CD1 molecule: CD1a, CD1b and CD1c. These isoforms differ in their extracellular domains and are expressed on different cell types.",
+        "There are three known human isoforms (variants) of CD1: CD1a, CD1b and CD1c. These isoforms differ in their expression patterns on immune cells and have distinct functions in antigen processing and presentation.",
+        "There are three known human isoforms (variants) of CD1, which are called CD1a, CD1b and CD1c. These isoforms differ in their expression patterns on immune cells and have different functions in antigen processing and presentation.",
+        "There are three known human isoforms (variants) of CD1: CD1a, CD1b and CD1c. These isoforms differ in their expression patterns on antigen-presenting cells such as Langerhans cells and dendritic cells, which can influence the specificity and function of MHC class I molecules they present to T cells.",
+        "The human genome encodes three different isoforms (variants) of the CD1 molecule: CD1a, CD1b and CD1c. These isoforms differ in their extracellular domains and are expressed on different cell types.",
+        "There are three known human isoforms (variants) of CD1: CD1a, CD1b and CD1c. These isoforms differ in their expression patterns on antigen-presenting cells such as Langerhans cells and dendritic cells, which can influence the specificity and function of MHC class I molecules they present to T cells.",
+        "There are three known human isoforms (variants) of CD1: CD1a, CD1b and CD1c. These isoforms differ in their expression patterns on antigen-presenting cells such as Langerhans cells and dendritic cells, which can influence the specificity and function of MHC class I molecules they present to T cells.",
+        "There are three known human isoforms (variants) of CD1, which are called CD1a, CD1b and CD1c. These isoforms differ in their expression patterns on immune cells and have different functions in antigen processing and presentation."
+    ]
+}

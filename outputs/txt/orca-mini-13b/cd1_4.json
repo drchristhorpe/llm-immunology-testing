@@ -1,0 +1,20 @@
+{
+    "question": {
+        "question": "What types of cells express CD1 molecules?",
+        "filename": "cd1_4"
+    },
+    "iterations": 10,
+    "model_name": "orca-mini-13b",
+    "responses": [
+        " CD1 molecules are expressed on the surface of certain types of cells, including mouse and human blood cells, as well as some cancer cells. These cells are known as CD1 cells or CD1-positive cells.",
+        " CD1 molecules are expressed on the surface of certain types of cells, including mouse and human immune cells, as well as some cancer cells. These cells are known as CD1 cells or simply \"CD1\" cells. The specific types of cells that express CD1 molecules can vary depending on the context in which they are being studied, but generally, CD1 cells are involved in the immune response and inflammation.",
+        " CD1 molecules are expressed on the surface of certain types of cells, including mouse and human immune cells, as well as some cancer cells. These cells are known as CD1 cells or simply \"CD1\" cells. The expression of CD1 molecules can be detected using flow cytometry, a technique used to analyze cell populations in a given sample. In flow cytometry, CD1 molecules are typically labeled with a fluorescent protein such as Alexa Fluor 488 or Pacific Blue, which allows for easy visualization and discrimination between different types of cells based on their surface expression patterns.",
+        " CD1 molecules are expressed on the surface of certain types of cells, including red blood cells, neutrophils, and monocytes. These cells are all part of the immune system and play important roles in protecting the body against infections and diseases.",
+        " CD1 molecules are expressed on the surface of certain types of cells, including immune system cells and endothelial cells. These cells are important for recognizing and attacking pathogens, such as bacteria and viruses, and for maintaining blood flow in the body.",
+        " CD1 molecules are expressed on the surface of certain types of cells, including mouse and human blood cells, as well as some cancer cells. These cells are involved in the immune system and help to identify and attack foreign invaders, such as bacteria or viruses.",
+        " CD1 molecules are expressed on the surface of certain types of cells, including T cells, B cells, and dendritic cells. These cells are important components of the immune system, as they help to identify and attack foreign invaders such as bacteria and viruses.",
+        " CD1 molecules are expressed on the surface of certain types of cells, including immune system cells and some cancer cells. These cells are known as CD1 cells or simply \"CD1\". The expression of CD1 molecules can be detected using flow cytometry, a technique that involves analyzing the behavior of cells in a fluid sample. By measuring the amount of CD1 molecules on the surface of cells, scientists can gain insights into their function and role in various biological processes.",
+        " CD1 molecules are expressed on the surface of certain types of cells, including T cells, B cells, and dendritic cells. These cells are important components of the immune system, as they help to identify and attack foreign invaders such as bacteria and viruses.",
+        " CD1 molecules are expressed on the surface of certain types of cells, including mouse and human blood cells, as well as some cancer cells. These cells are known as CD1+ cells or simply CD1 cells. The expression of CD1 molecules can be detected using flow cytometry, a technique that involves analyzing the fluorescence of cells in a given sample. By measuring the amount of CD1 molecules on the surface of cells, scientists can gain insights into their function and role in various cellular processes."
+    ]
+}

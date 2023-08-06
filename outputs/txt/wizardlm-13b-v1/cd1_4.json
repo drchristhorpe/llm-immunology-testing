@@ -1,0 +1,20 @@
+{
+    "question": {
+        "question": "What types of cells express CD1 molecules?",
+        "filename": "cd1_4"
+    },
+    "iterations": 10,
+    "model_name": "wizardlm-13b-v1",
+    "responses": [
+        "CD1 molecules are primarily expressed on antigen-presenting cells (APCs), including dendritic cells and some subsets of B cells, monocytes, and macrophages. These APCs play a crucial role in the immune system by presenting antigens to T cells, thereby initiating an adaptive immune response.",
+        "CD1 molecules are primarily expressed on antigen-presenting cells (APCs), specifically dendritic cells and Langerhans cells, which play a crucial role in the immune system by presenting antigens to T cells. CD1 expression can also be found on some B cells and natural killer (NK) cells, but these are less common compared to APCs.",
+        "CD1 molecules are primarily expressed on antigen-presenting cells (APCs), specifically dendritic cells and Langerhans cells, which play a crucial role in the immune system by presenting antigens to T cells. CD1 expression also occurs on some B cells and natural killer (NK) cells, but these are less common compared to APCs.",
+        "CD1 molecules are primarily expressed on antigen-presenting cells (APCs), including dendritic cells and Langerhans cells, which play a crucial role in the immune system by presenting antigens to T cells. CD1 expression can also be found on B cells, natural killer (NK) cells, and some other cell types, but these expressions are less common compared to APCs.",
+        "CD1 molecules are primarily expressed on antigen-presenting cells (APCs), specifically dendritic cells and Langerhans cells, which play a crucial role in the immune system by presenting antigens to T cells. Additionally, CD1 expression has been observed on some B cells and natural killer (NK) cells, but these are less common compared to their expression on APCs.",
+        "CD1 molecules are primarily expressed on antigen-presenting cells (APCs), including dendritic cells and Langerhans cells, which play a crucial role in the immune system by presenting antigens to T cells. CD1 expression also occurs on B cells, natural killer (NK) cells, and some other cell types, but these expressions are less common compared to APCs.",
+        "CD1 molecules are primarily expressed on antigen-presenting cells (APCs), including dendritic cells and some subsets of B cells, monocytes, and macrophages. These cells play a crucial role in the immune system by presenting antigens to T cells, thereby initiating an adaptive immune response.",
+        "CD1 molecules are primarily expressed on antigen-presenting cells (APCs), including dendritic cells and some subsets of B cells, monocytes, and macrophages. These APCs play a crucial role in the immune system by presenting antigens to T cells, initiating an adaptive immune response.",
+        "CD1 molecules are primarily expressed on antigen-presenting cells (APCs), specifically dendritic cells and Langerhans cells, which play a crucial role in the immune system by presenting antigens to T cells. CD1 expression also occurs on B cells, natural killer (NK) cells, and some other cell types, but its function in these contexts is not yet fully understood.",
+        "CD1 molecules are primarily expressed on antigen-presenting cells (APCs), specifically dendritic cells and Langerhans cells, which play a crucial role in the immune system by presenting antigens to T cells. CD1 expression can also be found on some B cells and natural killer (NK) cells, but these are less common."
+    ]
+}

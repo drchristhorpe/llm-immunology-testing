@@ -1,0 +1,20 @@
+{
+    "question": {
+        "question": "What is the function of CD1 molecules?",
+        "filename": "cd1_5"
+    },
+    "iterations": 10,
+    "model_name": "ggml-vicuna-13b-1",
+    "responses": [
+        "CD1 molecules are a family of proteins that play an important role in the immune system by presenting antigens to T cells. They are expressed on the surface of cells and help stimulate an immune response by recognizing and presenting foreign substances, such as bacteria or viruses, to the body's immune cells. CD1 molecules are found on many different types of cells in the body, including dendritic cells and macrophages, and they play a critical role in helping the immune system distinguish between self and non-self substances.",
+        "CD1 molecules are a family of proteins that play an important role in the immune system by presenting antigens to T cells. They are expressed on the surface of cells and help stimulate an immune response by activating T cells, which then recognize and attack foreign substances in the body.",
+        "CD1 molecules are a family of proteins that play an important role in the immune system by presenting antigens to T cells. They are expressed on the surface of cells and help stimulate an immune response by activating T cells, which then recognize and attack foreign substances in the body.",
+        "CD1 molecules are a family of proteins that play an important role in the immune system by presenting antigens to T cells. They are expressed on the surface of cells and help stimulate an immune response by recognizing and presenting foreign substances, such as bacteria or viruses, to CD1-specific T cells. This helps trigger an immune response that can protect against infection and disease.",
+        "CD1 molecules are a family of proteins that play an important role in the immune system by presenting antigens to T cells. They are expressed on the surface of cells and help stimulate an immune response by activating T cells, which then recognize and attack foreign substances in the body.",
+        "CD1 molecules are a family of proteins that play an important role in the immune system by presenting antigens to T cells. They are expressed on the surface of cells and help stimulate an immune response by recognizing and presenting foreign substances, such as bacteria or viruses, to the body's immune cells. CD1 molecules are found on many different types of cells in the body, including dendritic cells and macrophages, and they play a critical role in helping the immune system distinguish between self and non-self substances.",
+        "CD1 molecules are a family of proteins that play an important role in the immune system by presenting antigens to T cells. They are expressed on the surface of cells and help stimulate an immune response by activating T cells, which then recognize and attack foreign substances in the body.",
+        "CD1 molecules are a family of proteins that play an important role in the immune system by presenting antigens to T cells. They are expressed on the surface of cells and help stimulate an immune response by recognizing and presenting foreign substances, such as bacteria or viruses, to CD1-specific T cells. This helps trigger an immune response that can protect against infection and disease.",
+        "CD1 molecules are a family of proteins that play an important role in the immune system by presenting antigens to T cells. They are expressed on the surface of cells and help stimulate an immune response by recognizing and presenting foreign substances, such as bacteria or viruses, to CD1-specific T cells. This helps trigger an immune response that can protect against infection and disease.",
+        "CD1 molecules are a family of proteins that play an important role in the immune system by presenting antigens to T cells. They are expressed on the surface of cells and help stimulate an immune response by recognizing and presenting foreign substances, such as bacteria or viruses, to CD1-specific T cells. This helps trigger an immune response that can protect against infection and disease."
+    ]
+}

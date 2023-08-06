@@ -1,0 +1,20 @@
+{
+    "question": {
+        "question": "What types of ligands do CD1 molecules present?",
+        "filename": "cd1_3"
+    },
+    "iterations": 10,
+    "model_name": "ggml-model-gpt4all-falcon-q4_0",
+    "responses": [
+        "CD1 molecules present different types of ligand depending on the specific molecule they bind to. For example, some CD1 molecules bind to lipids while others bind to carbohydrates.",
+        "CD1 molecules present a type of ligand known as a lipid-anchored glycoprotein.",
+        "CD1 molecules present different types of ligand, including lipids, carbohydrates, and proteins.",
+        "CD1 molecules present different types of ligand, including lipids, carbohydrates, and peptides.",
+        "CD1 molecules present a type of ligand known as a lipid molecule.",
+        "CD1 molecules present different types of ligand, including lipids, carbohydrates, and proteins.",
+        "CD1 molecules present different types of ligand, including lipid antigens and carbohydrates.",
+        "CD1 molecules present different types of ligand, including lipid antigens and carbohydrates.",
+        "CD1 molecules present different types of ligand, including lipid antigens and carbohydrates.",
+        "CD1 molecules present a type of ligand known as a lipid-anchored glycoprotein."
+    ]
+}

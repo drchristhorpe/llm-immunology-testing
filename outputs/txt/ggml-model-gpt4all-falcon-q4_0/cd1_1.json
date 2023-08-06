@@ -1,0 +1,20 @@
+{
+    "question": {
+        "question": "What are CD1 molecules?",
+        "filename": "cd1_1"
+    },
+    "iterations": 10,
+    "model_name": "ggml-model-gpt4all-falcon-q4_0",
+    "responses": [
+        "CD1 molecules are a type of glycoprotein that is found on the surface of some immune cells called natural killer (NK) cells. They play an important role in recognizing and killing cancer cells, as well as other abnormal cells in the body.",
+        "CD1 molecules are a type of glycoprotein that are found on the surface of certain immune cells called natural killer (NK) cells. They play an important role in recognizing and killing infected or abnormal cells in the body.",
+        "CD1 molecules are a type of glycoprotein that is found on the surface of certain immune cells called natural killer (NK) cells. They play an important role in recognizing and killing infected or abnormal cells in the body.",
+        "CD1 molecules are a type of glycoprotein that are found on the surface of certain immune cells, such as B cells and T cells. They play a role in recognizing and binding to specific carbohydrates called glycans on other cells, which can help activate the immune response.",
+        "CD1 molecules are a type of glycoprotein that is found on the surface of certain immune cells, such as B cells and T cells. They play an important role in helping these cells recognize and bind to specific types of pathogens, such as viruses and bacteria.",
+        "CD1 molecules are a type of glycoprotein that is found on the surface of certain immune cells called natural killer (NK) cells. They play an important role in recognizing and killing infected or abnormal cells in the body.",
+        "CD1 molecules are a type of glycoprotein that is found on the surface of certain immune cells, such as B cells and T cells. They play an important role in recognizing and binding to specific antigens, which can help activate the immune response against pathogens or cancer cells.",
+        "CD1 molecules are a type of glycoprotein that are found on the surface of certain immune cells called natural killer (NK) cells. They play an important role in recognizing and killing infected or abnormal cells, which helps to prevent cancer and other diseases.",
+        "CD1 molecules are a type of glycoprotein that are found on the surface of certain immune cells, such as B cells and T cells. They play a role in recognizing and binding to specific carbohydrates called glycans on other cells, which can help these cells recognize and attack invaders like viruses and bacteria.",
+        "CD1 molecules are a type of glycoprotein that are found on the surface of some immune cells called natural killer (NK) cells. They play an important role in recognizing and killing cancer cells, as well as other abnormal cells in the body."
+    ]
+}

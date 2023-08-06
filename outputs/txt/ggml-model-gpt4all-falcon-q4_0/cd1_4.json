@@ -1,0 +1,20 @@
+{
+    "question": {
+        "question": "What types of cells express CD1 molecules?",
+        "filename": "cd1_4"
+    },
+    "iterations": 10,
+    "model_name": "ggml-model-gpt4all-falcon-q4_0",
+    "responses": [
+        "CD1 molecules are expressed on the surface of B cells, T cells, natural killer cells, and some subsets of dendritic cells.",
+        "CD1 molecules are expressed on the surface of B cells, natural killer (NK) cells, and some subsets of T cells.",
+        "CD1 molecules are expressed on the surface of B cells, natural killer (NK) cells, and some subsets of T cells.",
+        "CD1 molecules are expressed on the surface of B cells, natural killer (NK) cells, and some subsets of T cells.",
+        "CD1 molecules are expressed on the surface of B cells, natural killer (NK) cells, and some subsets of T cells.",
+        "CD1 molecules are expressed on the surface of B cells, T cells, natural killer cells, and some subsets of dendritic cells.",
+        "CD1 molecules are expressed on the surface of certain immune cells, including B cells, T cells, natural killer cells, and some dendritic cells.",
+        "CD1 molecules are expressed on the surface of B cells, T cells, natural killer cells, and some subsets of dendritic cells.",
+        "CD1 molecules are expressed on the surface of certain types of immune cells, including B cells, T cells, natural killer cells, and some dendritic cells.",
+        "CD1 molecules are expressed on the surface of B cells, natural killer (NK) cells, and some subsets of T cells."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "question": {
+        "question": "What types of cells express CD1 molecules?",
+        "filename": "cd1_4"
+    },
+    "iterations": 10,
+    "model_name": "ggml-vicuna-7b-1",
+    "responses": [
+        "CD1 is expressed on the surface of antigen-presenting cells such as dendritic cells and macrophages. It plays a crucial role in presenting antigens to T cells, allowing for effective immune responses against pathogens and tumors.",
+        "CD1 is expressed on the surface of antigen-presenting cells such as dendritic cells and macrophages. It plays a crucial role in presenting antigens to T cells, which are responsible for adaptive immunity.",
+        "CD1 is expressed on the surface of antigen-presenting cells such as dendritic cells and macrophages. It plays a crucial role in presenting antigens to T cells, allowing for effective immune responses against pathogens and tumors.",
+        "CD1 is expressed on the surface of antigen-presenting cells such as dendritic cells and macrophages. It plays a crucial role in presenting antigens to T cells, allowing for effective immune responses against pathogens and tumors.",
+        "CD1 is expressed on the surface of antigen-presenting cells such as dendritic cells and macrophages. It plays a crucial role in presenting antigens to T cells, which are responsible for adaptive immunity.",
+        "CD1 is expressed on the surface of antigen-presenting cells such as dendritic cells and macrophages. It plays a crucial role in presenting antigens to T cells, which are responsible for cell-mediated immunity.",
+        "CD1 is expressed on the surface of antigen-presenting cells such as dendritic cells and macrophages. It plays a crucial role in presenting antigens to T cells, allowing for effective immune responses against pathogens and tumors.",
+        "CD1 is expressed on the surface of antigen-presenting cells such as dendritic cells and macrophages. It plays a crucial role in presenting antigens to T cells, allowing for effective immune responses against pathogens and tumors.",
+        "CD1 is expressed on the surface of antigen-presenting cells such as dendritic cells and macrophages. It plays a crucial role in presenting antigens to T cells, which are responsible for cell-mediated immunity.",
+        "CD1 is expressed on the surface of antigen-presenting cells such as dendritic cells and macrophages. It plays a crucial role in presenting antigens to T cells, allowing for efficient activation of adaptive immunity."
+    ]
+}

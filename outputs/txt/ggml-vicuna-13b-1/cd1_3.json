@@ -1,0 +1,20 @@
+{
+    "question": {
+        "question": "What types of ligands do CD1 molecules present?",
+        "filename": "cd1_3"
+    },
+    "iterations": 10,
+    "model_name": "ggml-vicuna-13b-1",
+    "responses": [
+        "CD1 molecules are Major Histocompatibility Complex (MHC) class I molecules that present antigens to T cells. They bind peptides derived from the degradation of proteins and present them in a way that allows T cells to recognize and respond to them.",
+        "CD1 molecules are Major Histocompatibility Complex (MHC) class I molecules that present antigens to T cells. They bind peptides derived from the degradation of proteins and present them in a way that allows T cells to recognize and respond to them.",
+        "CD1 molecules are Major Histocompatibility Complex (MHC) class I molecules that present antigens to T cells. They bind peptides derived from the degradation of proteins and present them in a way that allows T cells to recognize and respond to them.",
+        "CD1 molecules are Major Histocompatibility Complex (MHC) class I molecules that present antigens to T cells. They bind peptides derived from the degradation of proteins and present them in a way that allows T cells to recognize and respond to them.",
+        "CD1 molecules are Major Histocompatibility Complex (MHC) class I molecules that present antigens to T cells. They bind peptides derived from the degradation of proteins and present them in a context-dependent manner, leading to an immune response.",
+        "CD1 molecules are Major Histocompatibility Complex (MHC) class I molecules that present antigens to T cells. They bind peptides derived from the degradation of proteins and present them in a context-dependent manner, leading to an immune response.",
+        "CD1 molecules are Major Histocompatibility Complex (MHC) class I molecules that present antigens to T cells. They bind peptides derived from the degradation of proteins and present them in a context-dependent manner, leading to an immune response.",
+        "CD1 molecules are Major Histocompatibility Complex (MHC) class I molecules that present antigens to T cells. They bind peptides derived from the degradation of proteins and present them in a context-dependent manner, leading to an immune response.",
+        "CD1 molecules are Major Histocompatibility Complex (MHC) class I molecules that present antigens to T cells. They bind peptides derived from the degradation of proteins and present them in a context-dependent manner, leading to an immune response.",
+        "CD1 molecules are Major Histocompatibility Complex (MHC) class I molecules that present antigens to T cells. They bind peptides derived from the degradation of proteins and present them in a context-dependent manner, leading to an immune response."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "question": {
+        "question": "What are the human isoforms of CD1?",
+        "filename": "cd1_2"
+    },
+    "iterations": 10,
+    "model_name": "ggml-vicuna-13b-1",
+    "responses": [
+        "CD1 is a protein found on the surface of cells in the immune system. There are three main isoforms (variants) of CD1 that are expressed by different types of cells in the body: CD1A, CD1B, and CD1C. These isoforms have slightly different structures and functions but all play a role in presenting antigens to T cells and activating the immune response.",
+        "CD1 is a protein found on the surface of cells in the immune system. There are three main isoforms (variants) of CD1 that are expressed by different types of cells in the body: CD1A, CD1B, and CD1C. These isoforms have slightly different structures and functions but all play a role in presenting antigens to T cells and activating the immune response.",
+        "CD1 is a protein found on the surface of cells in the immune system. There are three main isoforms (variants) of CD1 that are expressed by different types of cells in the body: CD1A, CD1B, and CD1C. These isoforms have slightly different structures and functions but all play a role in presenting antigens to T cells and activating the immune response.",
+        "CD1 is a protein found on the surface of cells in the immune system. There are three main isoforms (variants) of CD1 that are expressed by different types of cells in the body: CD1A, CD1B, and CD1C. These isoforms have slightly different structures and functions but all play a role in presenting antigens to T cells and activating the immune response.",
+        "CD1 is a protein found on the surface of cells in the immune system. There are three main isoforms (variants) of CD1 that are expressed by different types of cells in the body: CD1A, CD1B, and CD1C. These isoforms have slightly different structures and functions but all play a role in presenting antigens to T cells and activating the immune response.",
+        "CD1 is a protein found on the surface of cells in the immune system. There are three main isoforms (variants) of CD1 that are expressed by different types of cells in the body: CD1A, CD1B, and CD1C. These isoforms have slightly different structures and functions but all play a role in presenting antigens to T cells and activating the immune response.",
+        "CD1 is a protein found on the surface of cells in the immune system. There are three main isoforms (variants) of CD1 that are expressed by different types of cells in the body: CD1A, CD1B, and CD1C. These isoforms have slightly different structures and functions but all play a role in presenting antigens to T cells and activating the immune response.",
+        "CD1 is a protein found on the surface of cells in the immune system. There are three main isoforms (variants) of CD1 that are expressed by different types of cells in the body: CD1A, CD1B, and CD1C. These isoforms have slightly different structures and functions but all play a role in presenting antigens to T cells and activating the immune response.",
+        "CD1 is a protein found on the surface of cells in the immune system. There are three main isoforms (variants) of CD1 that are expressed by different types of cells in the body: CD1A, CD1B, and CD1C. These isoforms have slightly different structures and functions but all play a role in presenting antigens to T cells and activating the immune response.",
+        "CD1 is a protein found on the surface of cells in the immune system. There are three main isoforms (variants) of CD1 that are expressed by different types of cells in the body: CD1A, CD1B, and CD1C. These isoforms have slightly different structures and functions but all play a role in presenting antigens to T cells and activating the immune response."
+    ]
+}

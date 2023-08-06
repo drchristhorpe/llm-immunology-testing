@@ -1,0 +1,20 @@
+{
+    "question": {
+        "question": "What types of cells express CD1 molecules?",
+        "filename": "cd1_4"
+    },
+    "iterations": 10,
+    "model_name": "orca-mini-3b",
+    "responses": [
+        " CD1 molecules are expressed on certain types of immune cells, including T cells, natural killer (NK) cells, and dendritic cells. These cells play a crucial role in the body's defense against pathogens and foreign substances.",
+        " CD1 molecules are expressed on certain types of immune cells, including T cells, natural killer (NK) cells, and dendritic cells. These cells play a crucial role in the body's defense against pathogens and foreign substances.",
+        " CD1 molecules are expressed on certain types of immune cells, including dendritic cells, natural killer cells, and some T cells. They are also found on the surface of activated B cells, which are a type of white blood cell that plays an important role in the body's immune response to foreign invaders such as bacteria or viruses.",
+        " CD1 molecules are expressed on certain types of immune cells, including T cells, natural killer (NK) cells, and dendritic cells. These cells play a crucial role in the body's defense against pathogens and foreign substances.",
+        " CD1 molecules are expressed on certain types of immune cells, including dendritic cells, natural killer cells, and T cells. They can also be found on the surface of some B cells and monocytes.",
+        " CD1 molecules are expressed on certain types of immune cells, including T cells, natural killer (NK) cells, and dendritic cells. These cells play a crucial role in the body's defense against pathogens and foreign substances.",
+        " CD1 molecules are expressed on certain types of immune cells, including T cells, natural killer (NK) cells, and dendritic cells. These cells play a crucial role in the body's defense against pathogens and foreign substances.",
+        " CD1 molecules are expressed on certain types of immune cells, including T cells, natural killer (NK) cells, and dendritic cells. These cells play a crucial role in the body's defense against pathogens and foreign substances.",
+        " CD1 molecules are expressed on certain types of immune cells, including T cells, natural killer (NK) cells, and dendritic cells. These cells play a crucial role in the body's defense against pathogens and foreign substances.",
+        " CD1 molecules are expressed on certain types of immune cells, including T cells, natural killer (NK) cells, and dendritic cells. These cells play a crucial role in the body's defense against pathogens and foreign substances."
+    ]
+}

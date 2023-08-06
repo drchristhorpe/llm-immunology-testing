@@ -1,0 +1,20 @@
+{
+    "question": {
+        "question": "What are MHC molecules?",
+        "filename": "mhc-molecules"
+    },
+    "iterations": 10,
+    "model_name": "ggml-vicuna-13b-1",
+    "responses": [
+        "Major histocompatibility complex (MHC) molecules are proteins that are expressed on the surface of cells and play an important role in the immune system by presenting pieces of foreign antigens to T-cells. They help the body identify and remember specific viruses or other pathogens, so it can mount a more effective response if they encounter them again.",
+        "Major histocompatibility complex (MHC) molecules are proteins that are expressed on the surface of cells and play an important role in the immune system by presenting pieces of foreign antigens to T-cells. They help the body identify and destroy infected or abnormal cells, and also help the body remember past infections so it can mount a more efficient response if the same pathogen is encountered again.",
+        "Major histocompatibility complex (MHC) molecules are proteins that are expressed on the surface of cells and play an important role in the immune system by presenting pieces of foreign antigens to T-cells. They help the body identify and remember specific viruses or other pathogens, so it can mount a more effective response if they encounter them again.",
+        "Major histocompatibility complex (MHC) molecules are proteins that are expressed on the surface of cells and play an important role in the immune system by presenting pieces of foreign antigens to T-cells. They help the body identify and destroy infected or abnormal cells, and also help the body remember past infections so it can mount a more efficient response if the same pathogen is encountered again.",
+        "Major histocompatibility complex (MHC) molecules are proteins that are expressed on the surface of cells and play an important role in the immune system by presenting pieces of foreign antigens to T-cells. They help the body identify and remember specific viruses or other pathogens, so it can mount a more effective response if they encounter them again.",
+        "Major histocompatibility complex (MHC) molecules are proteins that are expressed on the surface of cells and play an important role in the immune system by presenting pieces of foreign antigens to T-cells. They help the body identify and remember specific viruses or other pathogens, so it can mount a more effective response if they encounter them again.",
+        "Major histocompatibility complex (MHC) molecules are proteins that are expressed on the surface of cells and play an important role in the immune system by presenting pieces of foreign antigens to T-cells. They help the body identify and destroy infected or abnormal cells, and also help the body remember past infections so it can mount a more efficient response if the same pathogen is encountered again.",
+        "Major histocompatibility complex (MHC) molecules are proteins that are expressed on the surface of cells and play an important role in the immune system by presenting pieces of foreign antigens to T-cells. They help the body identify and remember specific viruses or other pathogens, so it can mount a more effective response if they encounter them again.",
+        "Major histocompatibility complex (MHC) molecules are proteins that are expressed on the surface of cells and play an important role in the immune system by presenting pieces of foreign antigens to T-cells. They help the body identify and remember specific viruses or other pathogens, so it can mount a more effective response if they encounter them again.",
+        "Major histocompatibility complex (MHC) molecules are proteins that are expressed on the surface of cells and play an important role in the immune system by presenting pieces of foreign antigens to T-cells. They help the body identify and destroy infected or abnormal cells, and also help the body remember past infections so it can mount a more efficient response if the same pathogen is encountered again."
+    ]
+}

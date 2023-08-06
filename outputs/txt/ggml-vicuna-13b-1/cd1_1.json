@@ -1,0 +1,20 @@
+{
+    "question": {
+        "question": "What are CD1 molecules?",
+        "filename": "cd1_1"
+    },
+    "iterations": 10,
+    "model_name": "ggml-vicuna-13b-1",
+    "responses": [
+        "CD1 molecules are proteins found on the surface of cells in our immune system that help to identify and target foreign substances like bacteria and viruses for destruction. They play a crucial role in activating the immune response, which helps protect us from infection and disease.",
+        "CD1 molecules are proteins found on the surface of cells in our immune system that help to identify and target foreign substances like bacteria and viruses for destruction. They play a crucial role in activating the immune response, which helps protect us from infection and disease.",
+        "CD1 molecules are proteins found on the surface of cells in our immune system that help to identify and target foreign substances like bacteria and viruses for destruction. They play a crucial role in activating the immune response, which helps protect us from infection and disease.",
+        "CD1 molecules are proteins found on the surface of cells in our immune system that help to identify and target foreign substances like bacteria and viruses for destruction. They play a crucial role in activating the immune response, which helps protect us from infection and disease.",
+        "CD1 molecules are proteins found on the surface of cells in our immune system that help to identify and target foreign substances like bacteria and viruses for destruction. They play a crucial role in activating the immune response, which helps protect us from infection and disease.",
+        "CD1 molecules are proteins found on the surface of cells in our immune system that help to identify and target foreign substances like bacteria and viruses for destruction. They play a crucial role in activating the immune response, which helps protect us from infection and disease.",
+        "CD1 molecules are proteins found on the surface of cells in our immune system that help to identify and target foreign substances like bacteria and viruses for destruction. They play a crucial role in activating the immune response, which helps protect us from infection and disease.",
+        "CD1 molecules are proteins found on the surface of cells in our immune system that help to identify and target foreign substances like bacteria and viruses for destruction. They play a crucial role in activating the immune response, which helps protect us from infection and disease.",
+        "CD1 molecules are proteins found on the surface of cells in our immune system that help to identify and target foreign substances like bacteria and viruses for destruction. They play a crucial role in activating the immune response, which helps protect us from infection and disease.",
+        "CD1 molecules are proteins found on the surface of cells in our immune system that help to identify and target foreign substances like bacteria and viruses for destruction. They play a crucial role in activating the immune response, which helps protect us from infection and disease."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "question": {
+        "question": "What are CD1 molecules?",
+        "filename": "cd1_1"
+    },
+    "iterations": 10,
+    "model_name": "ggml-vicuna-7b-1",
+    "responses": [
+        "CD1 (Cluster of Differentiation 1) is a protein complex that functions as an antigen-presenting cell receptor on immune cells, such as dendritic cells and macrophages. The CD1 proteins help present pieces of foreign molecules to the immune system so it can recognize them and mount an appropriate response.",
+        "CD1 (Cluster of Differentiation 1) is a protein complex that resides on the surface of immune cells and binds to specific antigens, facilitating their recognition and elimination.",
+        "CD1 (Cluster of Differentiation 1) is a protein complex that resides on the surface of immune cells and facilitates their interaction with other cells, including antigens from pathogens. The CD1 proteins are composed of multiple subunits that form a structure called a heterodimer, which binds to specific ligands on target cells. This binding triggers intracellular signaling events that lead to the activation or inhibition of immune responses.",
+        "CD1 (Cluster of Differentiation 1) is a protein complex that resides on the surface of immune cells and facilitates their interaction with other cells, including antigens for presentation to T-cells.",
+        "CD1 (Cluster of Differentiation 1) is a protein complex that serves as an antigen-presenting cell receptor on immune cells, such as dendritic cells and macrophages. It recognizes and binds to specific carbohydrate structures (glycans) on the surface of pathogens or self-antigens, which helps initiate an immune response by presenting antigenic peptides to T cells.",
+        "CD1 (Cluster of Differentiation 1) is a protein complex that functions as an antigen-presenting cell receptor on immune cells, such as dendritic cells and macrophages. The CD1 proteins bind to specific carbohydrates (glycans) present on the surface of antigens, facilitating their recognition by T cells and initiation of an adaptive immune response.",
+        "CD1 (Cluster of Differentiation 1) is a protein complex that functions as an antigen-presenting cell receptor on immune cells, such as dendritic cells and macrophages. The CD1 proteins bind to specific types of lipids found in the outer membrane of certain pathogens or infected host cells, which helps activate the immune system by presenting antigens to T-cells.",
+        "CD1 (Cluster of Differentiation 1) is a protein complex that functions as an antigen-presenting cell receptor on immune cells, such as dendritic cells and macrophages. The CD1 proteins bind to specific carbohydrates on the surface of antigens (foreign substances recognized by the immune system) and present them to T cells in a way that facilitates their activation and differentiation into effector T cells or regulatory T cells, depending on the nature of the presented antigen. CD1 molecules are important for the initiation and regulation of adaptive immunity (the body's response to specific pathogens).",
+        "CD1 (Cluster of Differentiation 1) is a protein complex that serves as an immune system receptor on the surface of cells such as T-cells and macrophages, which recognize specific antigens. The structure of each CD1 molecule consists of multiple subunits arranged in a hexagonal shape, with each subunit containing six transmembrane domains that allow for efficient signaling upon binding to an antigen.\n\n",
+        "CD1 (Cluster of Differentiation 1) is a protein complex that resides on the surface of immune cells and binds to specific antigens, facilitating their recognition and elimination."
+    ]
+}
